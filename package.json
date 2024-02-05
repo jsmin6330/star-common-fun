@@ -1,0 +1,19 @@
+{
+  "name": "star-common-fun",
+  "version": "0.1.0",
+  "description": "common fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsmin6330/star-common-fun.git"
+  },
+  "author": "jsmin6330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsmin6330/star-common-fun/issues"
+  },
+  "homepage": "https://github.com/jsmin6330/star-common-fun#readme"
+}
